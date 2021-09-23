@@ -1,5 +1,5 @@
-# ELK-Stack-Project
-ELK Stack Project originally created for UT Cybersecurity Bootcamp
+# Cloud Security Project
+Cloud Sercurity Project originally created for UT Cybersecurity Bootcamp
 The files in this repository were used to configure the network depicted below.
 
 https://github.com/Ahbryant/ELK-Stack-Project/blob/main/Diagrams/ELKStackDiagram.png
